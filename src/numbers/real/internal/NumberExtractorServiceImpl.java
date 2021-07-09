@@ -5,4 +5,14 @@ import numbers.real.entity.OriginalNumberEntity;
 import numbers.real.entity.OldNumberEntity;
 
 public class NumberExtractorServiceImpl implements NumberExtractorService {
+
+    @Override
+    public void extract(OriginalNumberEntity entity) {
+
+    }
+
+    @Override
+    public void extract(OldNumberEntity entity) {
+
+    }
 }

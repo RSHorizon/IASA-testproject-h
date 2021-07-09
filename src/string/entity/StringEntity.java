@@ -1,7 +1,12 @@
 package string.entity;
 
-import string.entity.CharacterEntity;
 import list.type.ListEntity;
 
 public class StringEntity {
+
+    public ListEntity<CharacterEntity> string;
+
+    void StringEntity(CharacterEntity[] entities){
+
+    }
 }
