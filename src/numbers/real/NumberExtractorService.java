@@ -1,7 +1,7 @@
 package numbers.real;
 
-import numbers.real.entity.OldNumberEntity;
-import numbers.real.entity.OriginalNumberEntity;
+import numbers.real.realEntity.OldNumberEntity;
+import numbers.real.realEntity.OriginalNumberEntity;
 
 public interface NumberExtractorService {
     void extract(OriginalNumberEntity entity);

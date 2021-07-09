@@ -1,11 +1,11 @@
-import numbers.imaginary.controller.ComplexNumberEvalController;
-import numbers.imaginary.controller.ComplexNumberFormalController;
-import numbers.imaginary.controller.ComplexNumberGenerationController;
-import numbers.imaginary.entity.ComplexNumberEntity;
-import numbers.real.controller.OriginalNumberController;
-import numbers.real.entity.OldNumberEntity;
-import string.controller.StringConversionController;
-import string.entity.CharacterEntity;
+import numbers.imaginary.imaginaryController.ComplexNumberEvalController;
+import numbers.imaginary.imaginaryController.ComplexNumberFormalController;
+import numbers.imaginary.imaginaryController.ComplexNumberGenerationController;
+import numbers.imaginary.imaginaryEntity.ComplexNumberEntity;
+import numbers.real.realController.OriginalNumberController;
+import numbers.real.realEntity.OldNumberEntity;
+import string.stringController.StringConversionController;
+import string.stringEntity.CharacterEntity;
 
 public class main {
 

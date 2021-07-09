@@ -1,6 +1,6 @@
 package string.stringInterface;
 
-import string.mapping.*;
+import string.stringMapping.*;
 
 public class StringMapper {
 

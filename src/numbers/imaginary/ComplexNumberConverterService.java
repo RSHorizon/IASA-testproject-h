@@ -1,6 +1,6 @@
 package numbers.imaginary;
 
-import numbers.imaginary.entity.ComplexNumberEntity;
+import numbers.imaginary.imaginaryEntity.ComplexNumberEntity;
 
 public class ComplexNumberConverterService {
 
