@@ -2,101 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44f38a2-fc63-44e8-8b56-a814a81ea079" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/list/Utils/ListOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/list/internal/ListSortingServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/list/type/ListEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/BigNumberUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/access/DBAccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/ComplexNumberConverterService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/controller/ComplexNumberEvalController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/controller/ComplexNumberFormalController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/controller/ComplexNumberGenerationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/entity/ComplexNumberEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/internal/ComplexNumberConverterServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/imaginary/repository/ComplexNumberDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/NumberExtractorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/NumberPackagingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/OldNumberService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/controller/OriginalNumberController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/dto/NumberDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/entity/OldNumberEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/entity/OriginalNumberEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/internal/NumberExtractorServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/internal/NumberPackagingServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/internal/OldNumberServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/repository/NumberDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/view/NumberDetailView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/numbers/real/view/NumberView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/controller/StringConversionController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/entity/CharacterEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/entity/StringEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/helper/CharTransformationHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/mapping/StringCNMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/mapping/StringListMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/mapping/StringMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/mapping/StringNumberMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/repository/StringDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/string/stringInterface/StringMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/list/ListSortingServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/imaginary/ComplexNumberConverterServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/imaginary/ComplexNumberEvalControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/imaginary/ComplexNumberFormalControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/imaginary/ComplexNumberGenerationControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/NumberCalculationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/NumberConversionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/NumberExtractorServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/NumberOperationsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/NumberPackagingServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/OldNumberServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IASA-Testproject-H/tests/numbers/real/OriginalNumberControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/Utils/ListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/listUtils/ListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/internal/ListSortingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/listInternal/ListSortingServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/type/ListEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/listType/ListEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/listInternal/ListSortingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/ListSortingServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/numbers/BigNumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/BigNumberUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/ComplexNumberConverterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/ComplexNumberConverterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/controller/ComplexNumberEvalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberEvalController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/controller/ComplexNumberFormalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberFormalController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/controller/ComplexNumberGenerationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberGenerationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/entity/ComplexNumberEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryEntity/ComplexNumberEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/internal/ComplexNumberConverterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryInternal/ComplexNumberConverterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/repository/ComplexNumberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryRepository/ComplexNumberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/NumberExtractorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/NumberExtractorService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/NumberPackagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/NumberPackagingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/OldNumberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/OldNumberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/controller/OriginalNumberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realController/OriginalNumberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/dto/NumberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realDTO/NumberDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/entity/OldNumberEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realEntity/OldNumberEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/entity/OriginalNumberEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realEntity/OriginalNumberEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/internal/NumberExtractorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realInternal/NumberExtractorServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/internal/NumberPackagingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realInternal/NumberPackagingServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/internal/OldNumberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realInternal/OldNumberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/repository/NumberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realRepository/NumberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/view/NumberDetailView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realView/NumberDetailView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/view/NumberView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realView/NumberView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/controller/StringConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringController/StringConversionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/entity/CharacterEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringEntity/CharacterEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/entity/StringEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringEntity/StringEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/helper/CharTransformationHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringHelper/CharTransformationHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/mapping/StringCNMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringMapping/StringCNMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/mapping/StringListMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringMapping/StringListMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/mapping/StringMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringMapping/StringMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/mapping/StringNumberMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringMapping/StringNumberMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/repository/StringDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringRepository/StringDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/stringInterface/StringMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringInterface/StringMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/list/ListSortingServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testList/ListSortingServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/imaginary/ComplexNumberConverterServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testImaginary/ComplexNumberConverterServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/imaginary/ComplexNumberEvalControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testImaginary/ComplexNumberEvalControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/imaginary/ComplexNumberFormalControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testImaginary/ComplexNumberFormalControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/imaginary/ComplexNumberGenerationControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testImaginary/ComplexNumberGenerationControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/NumberCalculationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberCalculationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/NumberConversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberConversionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/NumberExtractorServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberExtractorServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/NumberOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberOperationsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/NumberPackagingServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberPackagingServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/OldNumberServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/OldNumberServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/numbers/real/OriginalNumberControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/OriginalNumberControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberGenerationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberGenerationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryInternal/ComplexNumberConverterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryService/ComplexNumberConverterServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realController/OriginalNumberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realController/OriginalNumberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realDTO/NumberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/NumberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realInternal/NumberExtractorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realService/NumberExtractorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realInternal/NumberPackagingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realService/NumberPackagingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realInternal/OldNumberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realService/OldNumberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realView/NumberDetailView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realView/NumberDetailView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realView/NumberView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realView/NumberView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testList/ListSortingServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testList/ListSortingServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testNumbers/testImaginary/ComplexNumberConverterServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testImaginary/ComplexNumberConverterServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberCalculationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberCalculationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberExtractorServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberExtractorServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberPackagingServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/NumberPackagingServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testNumbers/testReal/OldNumberServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testNumbers/testReal/OldNumberServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +92,9 @@
       <workItem from="1625755724343" duration="1417000" />
       <workItem from="1625815499540" duration="6742000" />
       <workItem from="1625822319416" duration="8799000" />
-      <workItem from="1625834084116" duration="448000" />
+      <workItem from="1625834084116" duration="1717000" />
+      <workItem from="1625836421967" duration="3900000" />
+      <workItem from="1626075596018" duration="3160000" />
     </task>
     <servers />
   </component>

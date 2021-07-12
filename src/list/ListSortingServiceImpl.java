@@ -1,4 +1,4 @@
-package list.listInternal;
+package list;
 
 import list.listType.ListEntity;
 

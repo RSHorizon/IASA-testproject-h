@@ -1,6 +1,6 @@
 package tests.testNumbers.testReal;
 
-import numbers.real.realInternal.OldNumberServiceImpl;
+import numbers.real.realService.OldNumberServiceImpl;
 
 public class OldNumberServiceImplTest {
     public void test(){

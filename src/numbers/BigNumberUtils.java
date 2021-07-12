@@ -1,9 +1,9 @@
 package numbers;
 
-import numbers.real.realDTO.NumberDTO;
+import numbers.real.NumberDTO;
 import numbers.real.realEntity.*;
 import numbers.imaginary.imaginaryEntity.ComplexNumberEntity;
-import numbers.imaginary.imaginaryInternal.ComplexNumberConverterServiceImpl;
+import numbers.imaginary.imaginaryService.ComplexNumberConverterServiceImpl;
 
 public class BigNumberUtils {
 

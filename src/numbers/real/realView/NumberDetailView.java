@@ -1,6 +1,6 @@
 package numbers.real.realView;
 
-import numbers.real.realDTO.NumberDTO;
+import numbers.real.NumberDTO;
 import numbers.real.realRepository.NumberDAO;
 
 public class NumberDetailView {

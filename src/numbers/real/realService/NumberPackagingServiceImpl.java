@@ -1,8 +1,8 @@
-package numbers.real.realInternal;
+package numbers.real.realService;
 
 import numbers.real.NumberPackagingService;
 import numbers.real.realEntity.OriginalNumberEntity;
-import numbers.real.realDTO.NumberDTO;
+import numbers.real.NumberDTO;
 import numbers.BigNumberUtils;
 
 public class NumberPackagingServiceImpl implements NumberPackagingService {

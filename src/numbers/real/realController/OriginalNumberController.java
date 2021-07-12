@@ -1,13 +1,13 @@
 package numbers.real.realController;
 
-import numbers.real.realDTO.NumberDTO;
+import numbers.real.NumberDTO;
 import numbers.real.realEntity.OldNumberEntity;
 import numbers.real.realEntity.OriginalNumberEntity;
 import string.stringMapping.StringNumberMapping;
 import numbers.real.realRepository.NumberDAO;
 import numbers.real.OldNumberService;
 import numbers.real.NumberExtractorService;
-import numbers.real.realInternal.NumberPackagingServiceImpl;
+import numbers.real.realService.NumberPackagingServiceImpl;
 import numbers.real.realView.*;
 import numbers.access.DBAccess;
 

@@ -1,4 +1,4 @@
-package numbers.real.realInternal;
+package numbers.real.realService;
 
 import numbers.real.NumberExtractorService;
 import numbers.real.realEntity.OriginalNumberEntity;

@@ -1,6 +1,6 @@
 package tests.testNumbers.testReal;
 
-import numbers.real.realInternal.*;
+import numbers.real.realService.*;
 import numbers.real.realController.OriginalNumberController;
 
 public class NumberCalculationTest {

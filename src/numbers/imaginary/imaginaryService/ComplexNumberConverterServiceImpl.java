@@ -1,4 +1,4 @@
-package numbers.imaginary.imaginaryInternal;
+package numbers.imaginary.imaginaryService;
 
 import numbers.imaginary.ComplexNumberConverterService;
 import numbers.imaginary.imaginaryEntity.ComplexNumberEntity;

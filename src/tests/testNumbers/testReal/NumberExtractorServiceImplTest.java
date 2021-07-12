@@ -1,6 +1,6 @@
 package tests.testNumbers.testReal;
 
-import numbers.real.realInternal.NumberExtractorServiceImpl;
+import numbers.real.realService.NumberExtractorServiceImpl;
 
 public class NumberExtractorServiceImplTest {
     public void test(){

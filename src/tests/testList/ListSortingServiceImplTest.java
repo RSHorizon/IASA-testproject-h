@@ -1,6 +1,6 @@
 package tests.testList;
 
-import list.listInternal.ListSortingServiceImpl;
+import list.ListSortingServiceImpl;
 
 public class ListSortingServiceImplTest {
 

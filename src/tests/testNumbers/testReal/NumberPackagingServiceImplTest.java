@@ -1,6 +1,6 @@
 package tests.testNumbers.testReal;
 
-import numbers.real.realInternal.NumberPackagingServiceImpl;
+import numbers.real.realService.NumberPackagingServiceImpl;
 
 public class NumberPackagingServiceImplTest {
     public void test(){
