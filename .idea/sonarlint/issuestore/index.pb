@@ -1,6 +1,4 @@
 
-~
-Nsrc/numbers/imaginary/imaginaryInternal/ComplexNumberConverterServiceImpl.java,8\3\832ff22de75b8aeb9b1e83d751b84cd5965b95e1
 _
 /src/numbers/real/realView/NumberDetailView.java,0\7\07934fa6f2469a461cfd0b242c74e39ed92b7388
 =
