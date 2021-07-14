@@ -4,6 +4,7 @@ import numbers.real.NumberPackagingService;
 import numbers.real.realEntity.OriginalNumberEntity;
 import numbers.real.NumberDTO;
 import numbers.BigNumberUtils;
+import string.stringInterface.StringMapper;
 
 public class NumberPackagingServiceImpl implements NumberPackagingService {
     @Override
@@ -11,5 +12,7 @@ public class NumberPackagingServiceImpl implements NumberPackagingService {
         NumberDTO dto = new NumberDTO();
         BigNumberUtils bigNumber = new BigNumberUtils();
         bigNumber.flatNumber(entity);
+        StringMapper stringMapper = new StringMapper();
+        stringMapper.map(entity);
     }
 }

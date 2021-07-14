@@ -3,8 +3,6 @@ _
 /src/numbers/real/realView/NumberDetailView.java,0\7\07934fa6f2469a461cfd0b242c74e39ed92b7388
 =
 src/main.java,5\7\57994ff8877cf5528154a51b34a36e33fea58d0a
-\
-,src/string/stringInterface/StringMapper.java,6\7\67639dd3e794d922942c601012ffad87b855f837
 ]
 -src/string/stringMapping/StringCNMapping.java,c\6\c6bcd811e2ccc366e7a187d8d3964c5f59ec7c14
 a

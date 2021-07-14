@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44f38a2-fc63-44e8-8b56-a814a81ea079" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67639dd3e794d922942c601012ffad87b855f837" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/real/realService/NumberPackagingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realService/NumberPackagingServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +34,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IASA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -75,6 +80,10 @@
       <workItem from="1625834084116" duration="1717000" />
       <workItem from="1625836421967" duration="3900000" />
       <workItem from="1626075596018" duration="4362000" />
+      <workItem from="1626089054455" duration="60000" />
+      <workItem from="1626171715623" duration="13000" />
+      <workItem from="1626171878632" duration="1110000" />
+      <workItem from="1626257321909" duration="97000" />
     </task>
     <servers />
   </component>
