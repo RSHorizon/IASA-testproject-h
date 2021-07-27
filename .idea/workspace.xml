@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44f38a2-fc63-44e8-8b56-a814a81ea079" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67639dd3e794d922942c601012ffad87b855f837" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/stringController/RepeatingStringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57994ff8877cf5528154a51b34a36e33fea58d0a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numbers/real/realService/NumberPackagingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/real/realService/NumberPackagingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/stringController/StringConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringController/StringConversionController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,7 +44,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -54,13 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,7 +93,10 @@
       <workItem from="1626089054455" duration="60000" />
       <workItem from="1626171715623" duration="13000" />
       <workItem from="1626171878632" duration="1110000" />
-      <workItem from="1626257321909" duration="97000" />
+      <workItem from="1626257321909" duration="1155000" />
+      <workItem from="1626335856195" duration="593000" />
+      <workItem from="1626420840380" duration="592000" />
+      <workItem from="1627395596264" duration="1074000" />
     </task>
     <servers />
   </component>
@@ -101,51 +114,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1625829164995">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625829164995" />
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1625828872032">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625828872032" />
-    <state x="587" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1625755737439">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="587" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625755737439" />
-    <state x="630" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1625829743629">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="630" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625829743629" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1626089009760">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1626089009760" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1625834076035">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625834076035" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1625834076035">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625834076035" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1625834076035">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625834076035" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1625834076035">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625834076035" />
-    <state x="437" y="188" key="SettingsEditor" timestamp="1625834179105">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="437" y="188" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625834179105" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625825019212">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625825019212" />
   </component>
 </project>

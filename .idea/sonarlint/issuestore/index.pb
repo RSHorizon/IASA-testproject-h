@@ -1,8 +1,6 @@
 
 _
 /src/numbers/real/realView/NumberDetailView.java,0\7\07934fa6f2469a461cfd0b242c74e39ed92b7388
-=
-src/main.java,5\7\57994ff8877cf5528154a51b34a36e33fea58d0a
 ]
 -src/string/stringMapping/StringCNMapping.java,c\6\c6bcd811e2ccc366e7a187d8d3964c5f59ec7c14
 a
@@ -11,3 +9,27 @@ _
 /src/string/stringMapping/StringListMapping.java,9\2\92c1bb9d87b4b116c1027410c94e8343fb1ed850
 r
 Bsrc/tests/testNumbers/testReal/NumberExtractorServiceImplTest.java,6\e\6ea1df8f8325f0b54e0c5816c1140e876385f644
+T
+$src/list/ListSortingServiceImpl.java,f\c\fc9ce84e68d659e2962d109e83dcd6065078ff8a
+O
+src/numbers/real/NumberDTO.java,f\5\f5450c28a91dd8dc2fcfb347d935ed85617807f4
+l
+<src/numbers/real/realService/NumberPackagingServiceImpl.java,e\2\e23b4bbcb3de3d8c54e6f9fac4f526c0d4f9013c
+V
+&src/numbers/real/OldNumberService.java,d\9\d9fd33f9024a6229a1760fd4b3647a2388f264a7
+\
+,src/string/stringInterface/StringMapper.java,6\7\67639dd3e794d922942c601012ffad87b855f837
+j
+:src/string/stringController/RepeatingStringController.java,f\4\f41a567cca6df71f9229459d0a9469125a7cae00
+k
+;src/string/stringController/StringConversionController.java,e\9\e9f8ce3882c8f997216e56a8fe6095fc7683729f
+=
+src/main.java,5\7\57994ff8877cf5528154a51b34a36e33fea58d0a
+R
+"src/cycle/CyclicControllerTwo.java,f\0\f055d391d9be2279203abed2123522ff576d9bf8
+T
+$src/cycle/CyclicControllerThree.java,1\d\1d47dbf8b774b297039634351b5bf91752bcd17a
+S
+#src/cycle/CyclicControllerFour.java,2\e\2ed8d1d57ca64f7a178bdc378d8413bef9d7cd95
+S
+#src/cycle/CyclicControllerFive.java,a\e\ae96854d3a655ae112cd5541b5ce0aa29561e4c5
