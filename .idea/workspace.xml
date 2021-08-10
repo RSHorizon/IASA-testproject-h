@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44f38a2-fc63-44e8-8b56-a814a81ea079" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cycle/CyclicControllerTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/stringController/RepeatingStringController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57994ff8877cf5528154a51b34a36e33fea58d0a" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberRepresentationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f055d391d9be2279203abed2123522ff576d9bf8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/stringController/StringConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/stringController/StringConversionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberEvalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberEvalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberFormalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberFormalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberGenerationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numbers/imaginary/imaginaryController/ComplexNumberGenerationController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -62,15 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +93,10 @@
       <workItem from="1626335856195" duration="593000" />
       <workItem from="1626420840380" duration="592000" />
       <workItem from="1627395596264" duration="1074000" />
+      <workItem from="1627396686345" duration="670000" />
+      <workItem from="1627457291848" duration="1204000" />
+      <workItem from="1627545440384" duration="609000" />
+      <workItem from="1628584907420" duration="294000" />
     </task>
     <servers />
   </component>

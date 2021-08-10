@@ -9,11 +9,13 @@ public class ComplexNumberGenerationController {
     ComplexNumberConverterServiceImpl converter;
     BigNumberUtils bigUtils;
     ComplexNumberDAO dao;
+    ComplexNumberRepresentationController rep;
 
     public ComplexNumberGenerationController(){
         converter = new ComplexNumberConverterServiceImpl();
         bigUtils = new BigNumberUtils();
         dao = new ComplexNumberDAO();
+        rep = new ComplexNumberRepresentationController();
     }
 
     public ComplexNumberEntity generateCN(){
